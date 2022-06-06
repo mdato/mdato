@@ -4,7 +4,7 @@ Hi 👋 My name is Marcelo Dato
 Full Stack Web Developer
 ------------------------
 
-Founder of BACode. \[https://bacode.com.ar/\\\] Full Stack Developer with over 10 years of experience in Javascript and their frameworks/libraries: React, Vue, ThreeJs, Bootstrap, Tailwinds, etc. I have made a lot of websites and collaborated for several start-ups. Creator of LingBodie, an app to acquire vocabulary. I am also the author of DerDieDas, an app for learning German articles. Both are free. I have developed a variety of applications for windows in the early 2000s, some of them are: Bodie's Calendar, Bodie's Typing, Bodie's Tricks, Bodie's Soccer, Bodie's Shopping, etc.
+Founder of BACode. Full Stack Developer with over 10 years of experience in Javascript and their frameworks/libraries: React, Vue, ThreeJs, Bootstrap, Tailwinds, etc. I have made a lot of websites and collaborated for several start-ups. Creator of LingBodie, an app to acquire vocabulary. I am also the author of DerDieDas, an app for learning German articles. Both are free. I have developed a variety of applications for windows in the early 2000s, some of them are: Bodie's Calendar, Bodie's Typing, Bodie's Tricks, Bodie's Soccer, Bodie's Shopping, etc.
 
 * 🌍  I'm based in Around the World
 * 🖥️  See my portfolio at [BACode by Marcelo Dato](https://bacode.com.ar)
