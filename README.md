@@ -8,7 +8,7 @@ Founder of BACode. Full Stack Developer with over 10 years of experience in Java
 
 * 🌍  I am currently based in Argentina.
 * 🖥️  See my portfolio at [BACode by Marcelo Dato](https://bacode.com.ar)
-* 🚀  I am actually working for some language schools, adapting the LingBodie app. In addition to the development of websites. [Project LingBodie ( 4 apps to learn languages )](https://bacode.com.ar)
+* 🚀  I am actually working for some language schools, adapting the LingBodie app. [Project LingBodie ( 4 apps to learn languages )](https://bacode.com.ar). In addition to the development of websites. 
 * ⚡  I would like to be part of a company (as Front-End or Back-End), where I can work in a team, using reusable components and agile methodologies.
 
 ### Skills
